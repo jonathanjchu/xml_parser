@@ -1,0 +1,16 @@
+<data>
+    <country name="United States of America">
+        <state name="New York">
+            <city>
+                <name>Albany</name>
+                <population>97856</population>
+                <area>21.39</area>
+            </city>
+            <city>
+                <name>New York City</name>
+                <population>8175133</population>
+                <area>468.484</area>
+            </city>
+        </state>
+    </country>
+</data>
